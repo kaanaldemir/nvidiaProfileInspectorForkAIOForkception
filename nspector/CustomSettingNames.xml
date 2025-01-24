@@ -9186,8 +9186,8 @@
 			<HexValue>0x00000006</HexValue>
 		  </CustomSettingValue>
 		  <CustomSettingValue>
-			<UserfriendlyName>Preset G (unused)</UserfriendlyName>
-			<HexValue>0x00000007</HexValue>
+			<UserfriendlyName>Preset J</UserfriendlyName>
+			<HexValue>0x0000000A</HexValue>
 		  </CustomSettingValue>
 		</SettingValues>
 		<SettingMasks/>
