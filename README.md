@@ -1,3 +1,7 @@
+## I'm a fork fixing a fork disguised as a another fork.
+
+
+
 ## What is this fork? Why does it exist? What do you mean by "fork all-in-one?"
 With the main repo from Orbmu2k having gone without updates since 2023, this fork aims to collect changes made across various forks into a single release that represents the "most up to date version" possible. Changes are reviewed and manually merged from forks of the original nvidiaProfileInspector repo found on GitHub.
 
